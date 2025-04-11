@@ -1,5 +1,4 @@
 [book]
 authors = []
 language = "fr"
-multilingual = false
 src = "src"
